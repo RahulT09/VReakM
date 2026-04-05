@@ -6,12 +6,6 @@
 
 ---
 
-## 📸 Preview
-
-![VRealM Landing Page](https://vrealm.vercel.app/og-image.png)
-
----
-
 ## 🚀 Features
 
 - **Responsive Design** — Fully optimized for mobile, tablet, and desktop screens
